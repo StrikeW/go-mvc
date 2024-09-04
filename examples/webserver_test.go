@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/travissimon/go-mvc"
+	"github.com/SrikeW/go-mvc"
 	"log"
 	"testing"
 )
