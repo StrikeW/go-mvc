@@ -1,7 +1,7 @@
 package mvc
 
 import (
-	"code.google.com/p/go.crypto/bcrypt"
+    "golang.org/x/crypto/bcrypt"
 	"database/sql"
 	"errors"
 	"fmt"

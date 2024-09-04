@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/travissimon/go-mvc"
+	"github.com/StrikeW/go-mvc"
 	"html/template"
 	"net/http"
 	"net/url"
